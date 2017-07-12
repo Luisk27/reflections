@@ -1,0 +1,6 @@
+ What happens when you initialize a repository? Why do you need to do it?
+ se comienza el repo y se necesita pa poder subir las vains lul
+ 
+ How is the staging area different from the working directory and the 
+ repository? What value do you think it offers?
+ staging area pone las vainas en un area antes de hacer el commit para poder contorlar mejor
