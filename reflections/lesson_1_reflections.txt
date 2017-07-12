@@ -46,5 +46,3 @@ What do you think are the pros and cons of manually choosing when to create a co
  
  
  
- What happens when you initialize a repository? Why do you need to do it?
- se comienza el repo y se necesita pa poder subir las vains lul
